@@ -9,3 +9,6 @@ To use them, add them as custom modules in your polybar config like that:
     exec = ~/path/to/script.py
     interval = 0.25             ;or whatever interval you wish
     label = %output%
+
+
+Preview them here: https://imgur.com/a/qlgD3
