@@ -1,5 +1,7 @@
 #!/bin/env python
 
+# Script written by Unix121 (https://github.com/unix121)
+
 import re
 import time
 
@@ -23,4 +25,3 @@ if __name__=="__main__" :
         file.write( str( int_line ) )
         file.truncate( )
         file.close( )
-
